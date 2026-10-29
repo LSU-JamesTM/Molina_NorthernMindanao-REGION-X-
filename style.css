@@ -5,18 +5,17 @@ body {
     color: #333333;
     line-height: 1.6;
 }
-
 img {
     max-width: 100%;
 }
 .site-header {
-    background-color: #0b6e7f;
+    background-color: rgb(45, 53, 56);
     color: white;
     padding: 10px 20px;
     text-align: center;
 }
 .nav-menu {
-    background-color: #084c59;
+    background-color: rgb(45, 53, 56);
     text-align: center;
     padding: 10px;
 }
@@ -31,7 +30,7 @@ img {
 }
 .hero-banner {
     text-align: center;
-    background-color: #084c59;
+    background-color: rgb(66, 84, 92);
 }
 .hero-image {
     width: 100%;
